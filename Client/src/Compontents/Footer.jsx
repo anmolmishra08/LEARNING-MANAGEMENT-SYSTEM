@@ -11,16 +11,16 @@ function Footer(){
                         Copyright {year} | All rights resvered
                 </section>
                 <section className='flex  items-center justify-center gap-5 text-2xl text-white'>
-                    <a className=' hover:text-yellow-500 transition-all ease-in-out duration-300'>
+                    <a href='https://www.facebook.com/profile.php?id=100018839177561' className=' hover:text-yellow-500 transition-all ease-in-out duration-300'>
                         <BsFacebook/>
                     </a>
-                    <a className=' hover:text-yellow-500 transition-all ease-in-out duration-300'>
+                    <a href='https://www.instagram.com/anmolmishra_14?igsh=ZW50dXliaXR2eDRs' className=' hover:text-yellow-500 transition-all ease-in-out duration-300'>
                         <BsInstagram/>
                     </a>
-                    <a className=' hover:text-yellow-500 transition-all ease-in-out duration-300'>
+                    <a href='https://www.linkedin.com/in/anmolmishra14/' className=' hover:text-yellow-500 transition-all ease-in-out duration-300'>
                         <BsLinkedin/>
                     </a>
-                    <a className=' hover:text-yellow-500 transition-all ease-in-out duration-300'>
+                    <a href='https://x.com/anmolmishra_14?s=21' className=' hover:text-yellow-500 transition-all ease-in-out duration-300'>
                         <BsTwitter/>
                     </a>
                 </section>
